@@ -9,7 +9,7 @@ This project was created while following the **Scrimba React course**, and was e
 ## 🚀 Live Demo
 
 👉 **Play the game here:**  
-**https://tenzies-app-tan.vercel.app/**
+*https://tenzies-app-tan.vercel.app/*
 
 ---
 
