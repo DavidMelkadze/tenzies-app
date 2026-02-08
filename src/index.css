@@ -88,6 +88,14 @@ button.roll-dice {
     font-size: 1.2rem;
 }
 
+.stats {
+    display: flex;
+    gap: 20px;
+    font-size: 1.1rem;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
 .sr-only {
     position: absolute;
     width: 1px;
