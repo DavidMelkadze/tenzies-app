@@ -1,16 +1,36 @@
-# React + Vite
+# Tenzies Game 🎲
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a **Tenzies dice game** built with **React** and **Vite** as part of a learning project from **Scrimba**.
 
-Currently, two official plugins are available:
+## About the Project
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Tenzies is a simple game where the goal is to **roll until all dice show the same number**.  
+You can **click dice to hold them**, preventing their value from changing on subsequent rolls.
 
-## React Compiler
+This project helped me practice:
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- React **state management** with `useState`  
+- **Mapping arrays** to components  
+- **Conditional rendering and styling**  
+- Using **unique IDs** with `nanoid`  
+- Functional component structure  
+- CSS Grid and Flexbox layouts  
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## How to Play
+
+1. Roll the dice with the **"Roll Dice"** button  
+2. Click on a die to **hold** its value  
+3. Keep rolling until all dice show the **same number**  
+
+---
+
+## Tech Stack
+
+- React  
+- Vite  
+- CSS (Flexbox & Grid)  
+- nanoid  
+
+---
